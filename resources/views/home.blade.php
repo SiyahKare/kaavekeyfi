@@ -131,31 +131,11 @@
 
             <div class="row">
 
-                <div class="col-md-6">
-
-                    <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/EhMgsuAq-EI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-                </div>
-
-                <div class="col-md-6">
-
-                    <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/_siPxWmjq18" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-                </div>
-
-            </div>
-
-            <div class="row">
-
-                <div class="col-md-6">
-
-                    <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/abRBjwNBAy8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-                </div>
-
-                <div class="col-md-6">
-
-                    <iframe width="426" height="240" src="https://www.youtube-nocookie.com/embed/XHv82y43Xto" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <div class="col-md-12" align="center" >
+                    <h5 >Menü için kodu taratın</h5>
+                    <p>
+                        <img src="/assets/img/pardonqr.jpeg" />
+                    </p>
 
                 </div>
 
