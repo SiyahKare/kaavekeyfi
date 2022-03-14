@@ -131,11 +131,14 @@
 
             <div class="row">
 
-                <div class="col-md-12" align="center" >
+                <div class="col-md-10" align="center" >
                     <h5 >Menü için kodu taratın</h5>
-                    <p>
-                        <img src="/assets/img/pardonqr.jpeg" />
-                    </p>
+
+
+                    <div class="img-container">
+                        <img width="500" src="/assets/img/pardonqr.jpeg" />
+                    </div>
+
 
                 </div>
 
